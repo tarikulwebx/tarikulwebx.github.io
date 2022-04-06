@@ -2,6 +2,8 @@
 
 Hi, I'm Tarikul doing web development as a professional manner. I'm making Github public repositories that can help you a lot. Check out my repositories on [https://github.com/tarikulwebx?tab=repositories](https://github.com/tarikulwebx?tab=repositories).
 
+
+
 # Which technologies do I use?
 
 ### Front-end
@@ -19,8 +21,6 @@ Hi, I'm Tarikul doing web development as a professional manner. I'm making Githu
 * Laravel
 * Ajax
 * Axios
-
-
 
 
 # Contact
