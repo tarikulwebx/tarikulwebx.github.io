@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to tarikulwebx
 
-You can use the [editor on GitHub](https://github.com/tarikulwebx/tarikulwebx.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Tarikul doing web development as a professional manner. I'm making Github public repositories that can help you a lot. Check out my repositories on [https://github.com/tarikulwebx?tab=repositories](https://github.com/tarikulwebx?tab=repositories).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Which technologies do I use?
 
-### Markdown
+### Front-end
+* HTML
+* CSS
+* SASS/SCSS
+* Javascript
+* JQuery
+* Bootstrap
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Back-end
+* PHP
+* MySQL
+* Laravel
+* Ajax
+* Axios
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Contact
+![facebook](https://user-images.githubusercontent.com/90204496/161873589-51d8f120-eefd-4337-8dde-f4c5c3678bdc.png) &nbsp;**[Facebook](https://www.facebook.com/tarikul44/)** &nbsp;&nbsp;&nbsp; ![telegram](https://user-images.githubusercontent.com/90204496/161874417-b110c401-716a-4534-8e32-5a7f104dcb30.png) &nbsp;**[Telegram](https://t.me/tarikul_brur)** &nbsp;&nbsp;&nbsp; ![gmail](https://user-images.githubusercontent.com/90204496/161874027-eadb783d-b8d0-479f-8b7e-4c4b0e00385e.png) &nbsp;**[Email](mailto:tarikulwebx@gmail.com)**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tarikulwebx/tarikulwebx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
