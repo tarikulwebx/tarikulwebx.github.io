@@ -11,6 +11,7 @@ Hi, I'm Tarikul doing web development as a professional manner. I'm making Githu
 * CSS
 * SASS/SCSS
 * Javascript
+* React JS
 * JQuery
 * Bootstrap
 
